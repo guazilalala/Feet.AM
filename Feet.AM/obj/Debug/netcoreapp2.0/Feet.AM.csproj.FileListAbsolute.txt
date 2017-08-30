@@ -1,0 +1,10 @@
+d:\Git\FEET.AM\FEET.AM\bin\Debug\netcoreapp2.0\Feet.AM.deps.json
+d:\Git\FEET.AM\FEET.AM\bin\Debug\netcoreapp2.0\Feet.AM.runtimeconfig.json
+d:\Git\FEET.AM\FEET.AM\bin\Debug\netcoreapp2.0\Feet.AM.runtimeconfig.dev.json
+d:\Git\FEET.AM\FEET.AM\bin\Debug\netcoreapp2.0\Feet.AM.dll
+d:\Git\FEET.AM\FEET.AM\bin\Debug\netcoreapp2.0\Feet.AM.pdb
+d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.csproj.CoreCompileInputs.cache
+d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.AssemblyInfoInputs.cache
+d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.AssemblyInfo.cs
+d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.dll
+d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.pdb
