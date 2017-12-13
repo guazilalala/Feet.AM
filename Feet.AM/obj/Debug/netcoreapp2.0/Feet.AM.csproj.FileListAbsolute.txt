@@ -8,3 +8,14 @@ d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.AssemblyInfoInputs.cache
 d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.AssemblyInfo.cs
 d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.dll
 d:\Git\FEET.AM\FEET.AM\obj\Debug\netcoreapp2.0\Feet.AM.pdb
+D:\GitHub\Feet.AM\Feet.AM\bin\Debug\netcoreapp2.0\Feet.AM.deps.json
+D:\GitHub\Feet.AM\Feet.AM\bin\Debug\netcoreapp2.0\Feet.AM.runtimeconfig.json
+D:\GitHub\Feet.AM\Feet.AM\bin\Debug\netcoreapp2.0\Feet.AM.runtimeconfig.dev.json
+D:\GitHub\Feet.AM\Feet.AM\bin\Debug\netcoreapp2.0\Feet.AM.dll
+D:\GitHub\Feet.AM\Feet.AM\bin\Debug\netcoreapp2.0\Feet.AM.pdb
+D:\GitHub\Feet.AM\Feet.AM\obj\Debug\netcoreapp2.0\Feet.AM.csproj.CoreCompileInputs.cache
+D:\GitHub\Feet.AM\Feet.AM\obj\Debug\netcoreapp2.0\Feet.AM.AssemblyInfoInputs.cache
+D:\GitHub\Feet.AM\Feet.AM\obj\Debug\netcoreapp2.0\Feet.AM.AssemblyInfo.cs
+D:\GitHub\Feet.AM\Feet.AM\obj\Debug\netcoreapp2.0\Feet.AM.dll
+D:\GitHub\Feet.AM\Feet.AM\obj\Debug\netcoreapp2.0\Feet.AM.pdb
+D:\GitHub\Feet.AM\Feet.AM\obj\Debug\netcoreapp2.0\Feet.AM.csprojResolveAssemblyReference.cache

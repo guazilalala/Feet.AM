@@ -35,11 +35,11 @@ namespace Feet.AM
             //获取数据库连接字符串
             var sqlConnectionString = Configuration.GetConnectionString("DefaultConnection");
 
-            //添加数据上下文
-            services.AddDbContext<FeetDbContext>(options =>
-            options.UseSqlServer(sqlConnectionString));
+			//添加数据上下文
+			//services.AddDbContext<FeetDbContext>(options =>
+			//options.UseSqlServer(sqlConnectionString));
 
-        }
+		}
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
@@ -69,7 +69,7 @@ namespace Feet.AM
                     template: "{controller=Login}/{action=Index}/{id?}");
             });
 
-            SeedData.Initialize(app.ApplicationServices); //初始化数据
+            //SeedData.Initialize(app.ApplicationServices); //初始化数据
 
         }
     }
